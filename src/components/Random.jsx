@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import axios from 'axios'
-import Loader from './loader'
+import Loader from './Loader'
 
 const API_KEY = "fwEi723jB8PS7U5w8bRS2oXkzyadHZSH"
 const Random = () => {
